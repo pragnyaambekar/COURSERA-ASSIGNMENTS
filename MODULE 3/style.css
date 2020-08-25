@@ -1,0 +1,22 @@
+.section{
+    width:100%;
+    border: black;
+    text-align: center;
+    background-color: grey;
+}
+.back{
+    color: white;
+}
+.back:hover{
+    text-decoration: none;
+}
+.ourmenu{
+    font-family: Lobster, cursive;
+}
+.head{
+    font-family: Dancing Script, cursive;
+    
+}
+p{
+    font-family: Lemonada, cursive;
+}
